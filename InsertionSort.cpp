@@ -24,6 +24,6 @@ int main()
 	}
 	for (int k=0;k<size;k++)
 	{
-		cout<<a[k]<<" ";2
+		cout<<a[k]<<" ";
 	}
 }
